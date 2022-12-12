@@ -1,0 +1,23 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+body{
+    background: rgb(2,27,43);
+    background: radial-gradient(90deg, rgba(2,27,43,1) 0%, rgba(2,27,43,1) 79%, rgba(0,0,0,1) 100%);
+}
+
+
+img{height: 300px;
+    width: 400px;
+   
+}
+
+
+section{
+    color:#ff0841;
+    font-size: 50px; 
+    text-align: right;
+    margin: 50px; 
+    padding: 90px;
+    }
